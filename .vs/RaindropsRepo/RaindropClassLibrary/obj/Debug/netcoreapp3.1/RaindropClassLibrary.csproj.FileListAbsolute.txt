@@ -1,8 +1,0 @@
-C:\Users\wendy\source\repos\RaindropClassLibrary\RaindropClassLibrary\bin\Debug\netcoreapp3.1\RaindropClassLibrary.deps.json
-C:\Users\wendy\source\repos\RaindropClassLibrary\RaindropClassLibrary\bin\Debug\netcoreapp3.1\RaindropClassLibrary.dll
-C:\Users\wendy\source\repos\RaindropClassLibrary\RaindropClassLibrary\bin\Debug\netcoreapp3.1\RaindropClassLibrary.pdb
-C:\Users\wendy\source\repos\RaindropClassLibrary\RaindropClassLibrary\obj\Debug\netcoreapp3.1\RaindropClassLibrary.AssemblyInfoInputs.cache
-C:\Users\wendy\source\repos\RaindropClassLibrary\RaindropClassLibrary\obj\Debug\netcoreapp3.1\RaindropClassLibrary.AssemblyInfo.cs
-C:\Users\wendy\source\repos\RaindropClassLibrary\RaindropClassLibrary\obj\Debug\netcoreapp3.1\RaindropClassLibrary.csproj.CoreCompileInputs.cache
-C:\Users\wendy\source\repos\RaindropClassLibrary\RaindropClassLibrary\obj\Debug\netcoreapp3.1\RaindropClassLibrary.dll
-C:\Users\wendy\source\repos\RaindropClassLibrary\RaindropClassLibrary\obj\Debug\netcoreapp3.1\RaindropClassLibrary.pdb
